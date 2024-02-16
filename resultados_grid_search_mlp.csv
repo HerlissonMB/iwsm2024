@@ -1,0 +1,201 @@
+campo,params,best_score,window_size
+TUPI,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0019056055236017922,1
+BAÚNA,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0051458854983474946,1
+URUGUÁ,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.012481908404484366,1
+SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': (8, 8), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.006427949311000778,1
+MEXILHÃO,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.018759848394574313,1
+LAPA,"{'activation': 'relu', 'hidden_layer_sizes': 16, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.019136817454314864,1
+TAMBAÚ,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.007711919997636847,1
+BÚZIOS,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.003026282036346272,1
+SÉPIA,"{'activation': 'tanh', 'hidden_layer_sizes': 8, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.000599852967885062,1
+BERBIGÃO,"{'activation': 'relu', 'hidden_layer_sizes': 8, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.003915787321493379,1
+ITAPU,"{'activation': 'relu', 'hidden_layer_sizes': (8, 8), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.007103450806663029,1
+ATAPU,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0010041134398611404,1
+MERO,"{'activation': 'tanh', 'hidden_layer_sizes': 8, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0037751762558229317,1
+ATLANTA,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.02702873015750037,1
+NOROESTE DE SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.028593016556798374,1
+NORDESTE DE SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.028531911660321506,1
+SUDOESTE DE SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.028221158052377626,1
+SUL DE TUPI,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.005044156634649031,1
+AnC_TUPI,"{'activation': 'tanh', 'hidden_layer_sizes': 32, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.017282081291017652,1
+TAMBUATÁ,"{'activation': 'relu', 'hidden_layer_sizes': (8, 8), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.01858102414138678,1
+TUPI,"{'activation': 'relu', 'hidden_layer_sizes': 32, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.001678726155229521,2
+BAÚNA,"{'activation': 'relu', 'hidden_layer_sizes': 32, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.004235213428984507,2
+URUGUÁ,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.00841963315521171,2
+SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': (8, 8), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.005271287507941555,2
+MEXILHÃO,"{'activation': 'relu', 'hidden_layer_sizes': (8, 8), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.011295732411657666,2
+LAPA,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.014265957669053435,2
+TAMBAÚ,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.007164774259858799,2
+BÚZIOS,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0026259377158227987,2
+SÉPIA,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0005815230983040847,2
+BERBIGÃO,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0023372722015069514,2
+ITAPU,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.007063832006985663,2
+ATAPU,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0008860151556864902,2
+MERO,"{'activation': 'relu', 'hidden_layer_sizes': 32, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0035544522903470264,2
+ATLANTA,"{'activation': 'relu', 'hidden_layer_sizes': 32, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.013636910923254229,2
+NOROESTE DE SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0221078868700489,2
+NORDESTE DE SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.025614348993878096,2
+SUDOESTE DE SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.026583399446118067,2
+SUL DE TUPI,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.004667479914288239,2
+AnC_TUPI,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.011851610799051835,2
+TAMBUATÁ,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.008259822461702229,2
+TUPI,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0015921984443361054,3
+BAÚNA,"{'activation': 'relu', 'hidden_layer_sizes': 16, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.004295211395676593,3
+URUGUÁ,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.007971335747731303,3
+SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.004940476353277983,3
+MEXILHÃO,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.010790585147848263,3
+LAPA,"{'activation': 'tanh', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.007487053368610174,3
+TAMBAÚ,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.006065175723215983,3
+BÚZIOS,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.00200998447122185,3
+SÉPIA,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0005819138254691892,3
+BERBIGÃO,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0022379078976777615,3
+ITAPU,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0057372676021153896,3
+ATAPU,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0007129392380311741,3
+MERO,"{'activation': 'tanh', 'hidden_layer_sizes': 8, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0036503093549510243,3
+ATLANTA,"{'activation': 'relu', 'hidden_layer_sizes': 32, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.009985897180745195,3
+NOROESTE DE SAPINHOÁ,"{'activation': 'tanh', 'hidden_layer_sizes': (8, 8), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.01794756071670167,3
+NORDESTE DE SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': 8, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0194178368876303,3
+SUDOESTE DE SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': (8, 8), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.01633857949419236,3
+SUL DE TUPI,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0044207217127787074,3
+AnC_TUPI,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.010389276912677076,3
+TAMBUATÁ,"{'activation': 'tanh', 'hidden_layer_sizes': (8, 8), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.009558249002792328,3
+TUPI,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0015897903423610657,4
+BAÚNA,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0039007321066352966,4
+URUGUÁ,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.007861079610454631,4
+SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': 32, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.004851979368746521,4
+MEXILHÃO,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.008971694074915207,4
+LAPA,"{'activation': 'relu', 'hidden_layer_sizes': 32, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.00650128649838372,4
+TAMBAÚ,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.00567030715075548,4
+BÚZIOS,"{'activation': 'relu', 'hidden_layer_sizes': 8, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.001157312109814238,4
+SÉPIA,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0005459923041971204,4
+BERBIGÃO,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0017863073015758797,4
+ITAPU,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0017111724755743383,4
+ATAPU,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0004494001017342141,4
+MERO,"{'activation': 'relu', 'hidden_layer_sizes': 8, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0023570692038925012,4
+ATLANTA,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0071858932729654285,4
+NOROESTE DE SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': 32, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.017726279919004467,4
+NORDESTE DE SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': 32, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.017788313841964283,4
+SUDOESTE DE SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.016526573785589083,4
+SUL DE TUPI,"{'activation': 'relu', 'hidden_layer_sizes': 8, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0033230233871663632,4
+AnC_TUPI,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.009848294807964493,4
+TAMBUATÁ,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.006662122911055745,4
+TUPI,"{'activation': 'relu', 'hidden_layer_sizes': 16, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0015667246602428797,5
+BAÚNA,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0035901579817201705,5
+URUGUÁ,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.008215891332519513,5
+SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.004203203204890858,5
+MEXILHÃO,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.010048708964459144,5
+LAPA,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.005926802117250456,5
+TAMBAÚ,"{'activation': 'relu', 'hidden_layer_sizes': 8, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.006245843503342404,5
+BÚZIOS,"{'activation': 'relu', 'hidden_layer_sizes': (8, 8), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0014385170778443666,5
+SÉPIA,"{'activation': 'relu', 'hidden_layer_sizes': 16, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0005489357821065983,5
+BERBIGÃO,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0013245339643069036,5
+ITAPU,"{'activation': 'relu', 'hidden_layer_sizes': 8, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.00011122275878214162,5
+ATAPU,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.00037338084536646073,5
+MERO,"{'activation': 'relu', 'hidden_layer_sizes': 8, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.001788746550478378,5
+ATLANTA,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.00336962432344697,5
+NOROESTE DE SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': 16, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.01320952449153651,5
+NORDESTE DE SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.010746325611110859,5
+SUDOESTE DE SAPINHOÁ,"{'activation': 'tanh', 'hidden_layer_sizes': 16, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.01492368280551185,5
+SUL DE TUPI,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0039387362596417785,5
+AnC_TUPI,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0058360665279790615,5
+TAMBUATÁ,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.005764460716553648,5
+TUPI,"{'activation': 'relu', 'hidden_layer_sizes': 32, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0015106656799624006,6
+BAÚNA,"{'activation': 'relu', 'hidden_layer_sizes': 32, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.003085231815285313,6
+URUGUÁ,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.006733472627154698,6
+SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': 8, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.004082750423507782,6
+MEXILHÃO,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.010092239084161033,6
+LAPA,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.003518861730519124,6
+TAMBAÚ,"{'activation': 'relu', 'hidden_layer_sizes': (8, 8), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.005312252766109912,6
+BÚZIOS,"{'activation': 'relu', 'hidden_layer_sizes': 32, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0008072174553949426,6
+SÉPIA,"{'activation': 'relu', 'hidden_layer_sizes': (8, 8), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.00029398887867748577,6
+BERBIGÃO,"{'activation': 'relu', 'hidden_layer_sizes': 32, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0014414765581701092,6
+ITAPU,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-8.917403141823115e-05,6
+ATAPU,"{'activation': 'relu', 'hidden_layer_sizes': (8, 8), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0004433211775976191,6
+MERO,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0016858723972490938,6
+ATLANTA,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0036854492782221896,6
+NOROESTE DE SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.010229932636638343,6
+NORDESTE DE SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.008159339963724484,6
+SUDOESTE DE SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.007221655867814341,6
+SUL DE TUPI,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.002614671368029536,6
+AnC_TUPI,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.003280146841185608,6
+TAMBUATÁ,"{'activation': 'relu', 'hidden_layer_sizes': 16, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.004205634695799243,6
+TUPI,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.001450172401588552,7
+BAÚNA,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0029853344128140517,7
+URUGUÁ,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0064908199732489815,7
+SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': 32, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0042437770078924564,7
+MEXILHÃO,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.010359612643414272,7
+LAPA,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.005633837212257688,7
+TAMBAÚ,"{'activation': 'relu', 'hidden_layer_sizes': 16, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.004669323707511515,7
+BÚZIOS,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0012535490041160676,7
+SÉPIA,"{'activation': 'relu', 'hidden_layer_sizes': (8, 8), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-3.676172946265252e-05,7
+BERBIGÃO,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0015821579612943935,7
+ITAPU,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-1.776413004739482e-05,7
+ATAPU,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.000553034932185422,7
+MERO,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.002075394454035569,7
+ATLANTA,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.003263777293438949,7
+NOROESTE DE SAPINHOÁ,"{'activation': 'tanh', 'hidden_layer_sizes': (8, 8), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0043051942478706876,7
+NORDESTE DE SAPINHOÁ,"{'activation': 'tanh', 'hidden_layer_sizes': (8, 8), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.004354120270561452,7
+SUDOESTE DE SAPINHOÁ,"{'activation': 'tanh', 'hidden_layer_sizes': (8, 8), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.005355650633105162,7
+SUL DE TUPI,"{'activation': 'relu', 'hidden_layer_sizes': 16, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0020981798603584957,7
+AnC_TUPI,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.003889560552184958,7
+TAMBUATÁ,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.004576912985219785,7
+TUPI,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0014436779850956214,8
+BAÚNA,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.002660735453894819,8
+URUGUÁ,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0065275195475224855,8
+SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.00388653148865614,8
+MEXILHÃO,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.010321713319040526,8
+LAPA,"{'activation': 'relu', 'hidden_layer_sizes': 32, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.004601519506178348,8
+TAMBAÚ,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.003620374876350371,8
+BÚZIOS,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0006532162537148622,8
+SÉPIA,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.00033482622323736385,8
+BERBIGÃO,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0016678878487457003,8
+ITAPU,"{'activation': 'tanh', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-2.4170117281013315e-05,8
+ATAPU,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.00047670505515871815,8
+MERO,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0014553289359325852,8
+ATLANTA,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0016653119855971846,8
+NOROESTE DE SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.004831934957066292,8
+NORDESTE DE SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.005260227953555895,8
+SUDOESTE DE SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.00602254569796342,8
+SUL DE TUPI,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0024019237710159935,8
+AnC_TUPI,"{'activation': 'relu', 'hidden_layer_sizes': 32, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0014273162625400215,8
+TAMBUATÁ,"{'activation': 'relu', 'hidden_layer_sizes': 32, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0033658589517989706,8
+TUPI,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.001276511798391246,9
+BAÚNA,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.00244608839007997,9
+URUGUÁ,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.005599922943538069,9
+SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0035789317603482306,9
+MEXILHÃO,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.010565589409137264,9
+LAPA,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.004186849132093522,9
+TAMBAÚ,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0031522955222802566,9
+BÚZIOS,"{'activation': 'relu', 'hidden_layer_sizes': 32, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0006450084004860783,9
+SÉPIA,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0003397288485698908,9
+BERBIGÃO,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0011826259074598474,9
+ITAPU,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-6.650490940080972e-07,9
+ATAPU,"{'activation': 'relu', 'hidden_layer_sizes': 32, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.00030340043562793634,9
+MERO,"{'activation': 'relu', 'hidden_layer_sizes': 32, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.001273042713109056,9
+ATLANTA,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0018225501329147448,9
+NOROESTE DE SAPINHOÁ,"{'activation': 'tanh', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.003126145569205647,9
+NORDESTE DE SAPINHOÁ,"{'activation': 'tanh', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.003625107738184775,9
+SUDOESTE DE SAPINHOÁ,"{'activation': 'tanh', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0029246934082932867,9
+SUL DE TUPI,"{'activation': 'relu', 'hidden_layer_sizes': 16, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0013655755836275805,9
+AnC_TUPI,"{'activation': 'relu', 'hidden_layer_sizes': 32, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0005526467312987432,9
+TAMBUATÁ,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.002966569026695883,9
+TUPI,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.001020441743012643,10
+BAÚNA,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0023188258487415498,10
+URUGUÁ,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.005856605959929772,10
+SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0037769543195028234,10
+MEXILHÃO,"{'activation': 'relu', 'hidden_layer_sizes': 32, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.009991636607189488,10
+LAPA,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0029232823690747227,10
+TAMBAÚ,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.00301462373390788,10
+BÚZIOS,"{'activation': 'tanh', 'hidden_layer_sizes': (8, 8), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.000841751161661355,10
+SÉPIA,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.00031135779259673456,10
+BERBIGÃO,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0011510259091360412,10
+ITAPU,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-3.162769344775502e-06,10
+ATAPU,"{'activation': 'relu', 'hidden_layer_sizes': (8, 8), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0003698448420846514,10
+MERO,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0006774054457029842,10
+ATLANTA,"{'activation': 'relu', 'hidden_layer_sizes': (32, 32), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0010949467456878863,10
+NOROESTE DE SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': 32, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.00030539808314965775,10
+NORDESTE DE SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': 32, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0004091357860583077,10
+SUDOESTE DE SAPINHOÁ,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0006300162812250973,10
+SUL DE TUPI,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.001147639585208803,10
+AnC_TUPI,"{'activation': 'relu', 'hidden_layer_sizes': 32, 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0004742821060529287,10
+TAMBUATÁ,"{'activation': 'relu', 'hidden_layer_sizes': (16, 16), 'max_iter': 100, 'random_state': 42, 'solver': 'lbfgs'}",-0.0013560869023246957,10

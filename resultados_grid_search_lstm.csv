@@ -1,0 +1,201 @@
+campo,params,best_score,window_length
+TUPI,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.29122405822655545,1
+BAÚNA,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.3031886291414836,1
+URUGUÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.305416578219443,1
+SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.6279633034121134,1
+MEXILHÃO,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 8}",-0.4705859504495815,1
+LAPA,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.33079265673449587,1
+TAMBAÚ,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.013339292371670584,1
+BÚZIOS,"{'optimizer': 'adam', 'units1': 16, 'units2': 8}",-0.2251444076188932,1
+SÉPIA,"{'optimizer': 'adam', 'units1': 16, 'units2': 8}",-0.0002662330408047106,1
+BERBIGÃO,"{'optimizer': 'adam', 'units1': 8, 'units2': 16}",-0.211687449273806,1
+ITAPU,"{'optimizer': 'adam', 'units1': 16, 'units2': 8}",-0.0002211537010680505,1
+ATAPU,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.10519063982764772,1
+MERO,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.014343064352193612,1
+ATLANTA,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.26067460820430743,1
+NOROESTE DE SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.3511234657691706,1
+NORDESTE DE SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.3555351747056268,1
+SUDOESTE DE SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.3595589453982522,1
+SUL DE TUPI,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.5873936320555103,1
+AnC_TUPI,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.23541122017614471,1
+TAMBUATÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.6061830948086769,1
+TUPI,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.24379442619061886,2
+BAÚNA,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.26953074598684007,2
+URUGUÁ,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 8}",-0.27941308305293616,2
+SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.5314852791128253,2
+MEXILHÃO,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.44727956550660325,2
+LAPA,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.3181373707566684,2
+TAMBAÚ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.01244185385272952,2
+BÚZIOS,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.21184367008674154,2
+SÉPIA,"{'optimizer': 'adam', 'units1': 16, 'units2': 8}",-0.00029487366652123634,2
+BERBIGÃO,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 8}",-0.19584283711033545,2
+ITAPU,"{'optimizer': 'adam', 'units1': 16, 'units2': 8}",-0.00037947812483429274,2
+ATAPU,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.10293557456753162,2
+MERO,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.01308718326141014,2
+ATLANTA,"{'optimizer': 'adam', 'units1': 16, 'units2': 8}",-0.24556079457725474,2
+NOROESTE DE SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.3322261340090678,2
+NORDESTE DE SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.3266340825628574,2
+SUDOESTE DE SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.3296156620961483,2
+SUL DE TUPI,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 8}",-0.5369677760169896,2
+AnC_TUPI,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.22809353783579203,2
+TAMBUATÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.557755313160076,2
+TUPI,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.21672477019889003,3
+BAÚNA,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.2571837803520703,3
+URUGUÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.2669669489612094,3
+SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 8}",-0.524069726690351,3
+MEXILHÃO,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.4227937129419337,3
+LAPA,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.3065775944024339,3
+TAMBAÚ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.011402152199416328,3
+BÚZIOS,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 8}",-0.19686980467765666,3
+SÉPIA,"{'optimizer': 'adam', 'units1': 8, 'units2': 8}",-0.0003257343389574188,3
+BERBIGÃO,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.1990838550427132,3
+ITAPU,"{'optimizer': 'adam', 'units1': 8, 'units2': 8}",-0.00036358157072281794,3
+ATAPU,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.0982947678429058,3
+MERO,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.008439201087279986,3
+ATLANTA,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.22359288374947636,3
+NOROESTE DE SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.30778045271144855,3
+NORDESTE DE SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.3051384635159644,3
+SUDOESTE DE SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.31433176619350456,3
+SUL DE TUPI,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.5543225841421074,3
+AnC_TUPI,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.2124515384469612,3
+TAMBUATÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.5317652308427445,3
+TUPI,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.19491306338756523,4
+BAÚNA,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.22948221292070348,4
+URUGUÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.260458426809,4
+SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.40995280323612615,4
+MEXILHÃO,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 8}",-0.35394037071787454,4
+LAPA,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.2797299777819848,4
+TAMBAÚ,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.01052046748325042,4
+BÚZIOS,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 8}",-0.20250719558793087,4
+SÉPIA,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.000316494095043951,4
+BERBIGÃO,"{'optimizer': 'adam', 'units1': 16, 'units2': 8}",-0.19051134760868785,4
+ITAPU,"{'optimizer': 'adam', 'units1': 8, 'units2': 16}",-0.0002807992947609847,4
+ATAPU,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 8}",-0.09160935954505071,4
+MERO,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.009214566713958127,4
+ATLANTA,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.22816380310212347,4
+NOROESTE DE SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.32504680863687707,4
+NORDESTE DE SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.3194558706017517,4
+SUDOESTE DE SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.2953332400027379,4
+SUL DE TUPI,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.46268797529491873,4
+AnC_TUPI,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.1927770705163229,4
+TAMBUATÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.519521369054981,4
+TUPI,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.118627243031821,5
+BAÚNA,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.19938777030184954,5
+URUGUÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.19064591556124574,5
+SAPINHOÁ,"{'optimizer': 'adam', 'units1': 16, 'units2': 16}",-0.4827185533222511,5
+MEXILHÃO,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 8}",-0.33442019465147355,5
+LAPA,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.244524344857166,5
+TAMBAÚ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.01021818308526686,5
+BÚZIOS,"{'optimizer': 'adam', 'units1': 16, 'units2': 16}",-0.19047740979039987,5
+SÉPIA,"{'optimizer': 'adam', 'units1': 8, 'units2': 8}",-0.0002326819084043368,5
+BERBIGÃO,"{'optimizer': 'adam', 'units1': 16, 'units2': 8}",-0.1575423642796511,5
+ITAPU,"{'optimizer': 'adam', 'units1': 16, 'units2': 8}",-0.0001407618256318811,5
+ATAPU,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.09671140111935657,5
+MERO,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.009617769763936173,5
+ATLANTA,"{'optimizer': 'adam', 'units1': 8, 'units2': 8}",-0.2086321309453234,5
+NOROESTE DE SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.283597912342819,5
+NORDESTE DE SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.2539183422259987,5
+SUDOESTE DE SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.2848669196963988,5
+SUL DE TUPI,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.42974456741604383,5
+AnC_TUPI,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.19931621128699198,5
+TAMBUATÁ,"{'optimizer': 'adam', 'units1': 16, 'units2': 8}",-0.47398427986525465,5
+TUPI,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 8}",-0.12557725403381328,6
+BAÚNA,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.18339980963934913,6
+URUGUÁ,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 8}",-0.20390414275240773,6
+SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.38871256720904945,6
+MEXILHÃO,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.3386395839736387,6
+LAPA,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.20187246052111876,6
+TAMBAÚ,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 8}",-0.00998170201726071,6
+BÚZIOS,"{'optimizer': 'adam', 'units1': 16, 'units2': 16}",-0.14628988652230804,6
+SÉPIA,"{'optimizer': 'adam', 'units1': 16, 'units2': 8}",-0.00042923232866301666,6
+BERBIGÃO,"{'optimizer': 'adam', 'units1': 16, 'units2': 16}",-0.19550385988969718,6
+ITAPU,"{'optimizer': 'adam', 'units1': 8, 'units2': 8}",-0.00020565418629539216,6
+ATAPU,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 8}",-0.09958587286704763,6
+MERO,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.0074911979827446415,6
+ATLANTA,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.188411963695753,6
+NOROESTE DE SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.28759046139684535,6
+NORDESTE DE SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 8}",-0.2707491453851649,6
+SUDOESTE DE SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.23615500428274291,6
+SUL DE TUPI,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.47385810320016875,6
+AnC_TUPI,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.16584997011683794,6
+TAMBUATÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.4415100078207445,6
+TUPI,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.16511228135910214,7
+BAÚNA,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.18543181203025025,7
+URUGUÁ,"{'optimizer': 'adam', 'units1': 16, 'units2': 8}",-0.1994813105519425,7
+SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.3807322208387793,7
+MEXILHÃO,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.2795539391945074,7
+LAPA,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.18418220657346818,7
+TAMBAÚ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.011236535499037185,7
+BÚZIOS,"{'optimizer': 'adam', 'units1': 16, 'units2': 16}",-0.14969108963363906,7
+SÉPIA,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 8}",-0.0004222245745184778,7
+BERBIGÃO,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.14863571836331177,7
+ITAPU,"{'optimizer': 'adam', 'units1': 8, 'units2': 8}",-0.0010328429684518757,7
+ATAPU,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.10355726721178547,7
+MERO,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.009424548276912607,7
+ATLANTA,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.16661352537527893,7
+NOROESTE DE SAPINHOÁ,"{'optimizer': 'adam', 'units1': 16, 'units2': 8}",-0.26703300854992723,7
+NORDESTE DE SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 8}",-0.23355298845322772,7
+SUDOESTE DE SAPINHOÁ,"{'optimizer': 'adam', 'units1': 16, 'units2': 8}",-0.29616227924985816,7
+SUL DE TUPI,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.4294510183963869,7
+AnC_TUPI,"{'optimizer': 'adam', 'units1': 8, 'units2': 8}",-0.17643746181350692,7
+TAMBUATÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.4603033947786446,7
+TUPI,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.09613166639081427,8
+BAÚNA,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.1837339943026679,8
+URUGUÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.12641317156464296,8
+SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.2458229174218194,8
+MEXILHÃO,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.2712890348284231,8
+LAPA,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.15116787378757282,8
+TAMBAÚ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.010885948351315539,8
+BÚZIOS,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.11874574738513981,8
+SÉPIA,"{'optimizer': 'adam', 'units1': 16, 'units2': 8}",-0.0003579634647616103,8
+BERBIGÃO,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.07283103197035244,8
+ITAPU,"{'optimizer': 'adam', 'units1': 8, 'units2': 16}",-0.0006972948346732613,8
+ATAPU,"{'optimizer': 'adam', 'units1': 8, 'units2': 8}",-0.09878233616516587,8
+MERO,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.007271634199649185,8
+ATLANTA,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.12383902430963682,8
+NOROESTE DE SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.30193715570488217,8
+NORDESTE DE SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.23795880851557652,8
+SUDOESTE DE SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.2206780225631296,8
+SUL DE TUPI,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.3669391070460553,8
+AnC_TUPI,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.15689976058071117,8
+TAMBUATÁ,"{'optimizer': 'adam', 'units1': 16, 'units2': 16}",-0.5345209247321517,8
+TUPI,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.06726897910705744,9
+BAÚNA,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.15431782062645866,9
+URUGUÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.2011096208867317,9
+SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.29735213850504233,9
+MEXILHÃO,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.2200348518645354,9
+LAPA,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.18248519280058897,9
+TAMBAÚ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.011065218671378002,9
+BÚZIOS,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.12599585411539757,9
+SÉPIA,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.0006106010344727516,9
+BERBIGÃO,"{'optimizer': 'adam', 'units1': 8, 'units2': 16}",-0.1837125700946535,9
+ITAPU,"{'optimizer': 'adam', 'units1': 8, 'units2': 16}",-0.0006166722081978417,9
+ATAPU,"{'optimizer': 'adam', 'units1': 16, 'units2': 8}",-0.10189796209270312,9
+MERO,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.007448850967672185,9
+ATLANTA,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.1880886470729611,9
+NOROESTE DE SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.22081418327745747,9
+NORDESTE DE SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.2270780166495929,9
+SUDOESTE DE SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.2334869279973811,9
+SUL DE TUPI,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.4238229877943527,9
+AnC_TUPI,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.12256930427293415,9
+TAMBUATÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.3664109529155782,9
+TUPI,"{'optimizer': 'adam', 'units1': 16, 'units2': 16}",-0.07999188343660629,10
+BAÚNA,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.14745698751221878,10
+URUGUÁ,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 8}",-0.19115729938856393,10
+SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.32132703671320145,10
+MEXILHÃO,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.14135972157227022,10
+LAPA,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.12691216879215592,10
+TAMBAÚ,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.0111037511837537,10
+BÚZIOS,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 8}",-0.08734421709658602,10
+SÉPIA,"{'optimizer': 'adam', 'units1': 8, 'units2': 8}",-0.000524485447916092,10
+BERBIGÃO,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.1823268493700186,10
+ITAPU,"{'optimizer': 'adam', 'units1': 8, 'units2': 8}",-0.0009671954347982058,10
+ATAPU,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.10102381027078867,10
+MERO,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.0063959588217208,10
+ATLANTA,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.1356542225815574,10
+NOROESTE DE SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 8}",-0.23629776008000636,10
+NORDESTE DE SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.25804870942446334,10
+SUDOESTE DE SAPINHOÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 8}",-0.21491958543716436,10
+SUL DE TUPI,"{'optimizer': 'adam', 'units1': 8, 'units2': 8}",-0.39889029012269567,10
+AnC_TUPI,"{'optimizer': 'rmsprop', 'units1': 8, 'units2': 16}",-0.14635117475831474,10
+TAMBUATÁ,"{'optimizer': 'rmsprop', 'units1': 16, 'units2': 16}",-0.36331626304238435,10
